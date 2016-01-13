@@ -1,0 +1,5 @@
+#!/bin/bash
+
+SCRIPT="<script src=\"~/Documents/Programs/circle_slack/circle_slack.js\"></script>"
+APP="/Applications/Slack.app/Contents/Resources/public/index.html"
+
